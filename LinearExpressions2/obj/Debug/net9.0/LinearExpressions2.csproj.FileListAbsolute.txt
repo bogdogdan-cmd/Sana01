@@ -1,0 +1,14 @@
+C:\Users\bogdo\Downloads\Sana\Sana01\LinearExpressions2\bin\Debug\net9.0\LinearExpressions2.exe
+C:\Users\bogdo\Downloads\Sana\Sana01\LinearExpressions2\bin\Debug\net9.0\LinearExpressions2.deps.json
+C:\Users\bogdo\Downloads\Sana\Sana01\LinearExpressions2\bin\Debug\net9.0\LinearExpressions2.runtimeconfig.json
+C:\Users\bogdo\Downloads\Sana\Sana01\LinearExpressions2\bin\Debug\net9.0\LinearExpressions2.dll
+C:\Users\bogdo\Downloads\Sana\Sana01\LinearExpressions2\bin\Debug\net9.0\LinearExpressions2.pdb
+C:\Users\bogdo\Downloads\Sana\Sana01\LinearExpressions2\obj\Debug\net9.0\LinearExpressions2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogdo\Downloads\Sana\Sana01\LinearExpressions2\obj\Debug\net9.0\LinearExpressions2.AssemblyInfoInputs.cache
+C:\Users\bogdo\Downloads\Sana\Sana01\LinearExpressions2\obj\Debug\net9.0\LinearExpressions2.AssemblyInfo.cs
+C:\Users\bogdo\Downloads\Sana\Sana01\LinearExpressions2\obj\Debug\net9.0\LinearExpressions2.csproj.CoreCompileInputs.cache
+C:\Users\bogdo\Downloads\Sana\Sana01\LinearExpressions2\obj\Debug\net9.0\LinearExpressions2.dll
+C:\Users\bogdo\Downloads\Sana\Sana01\LinearExpressions2\obj\Debug\net9.0\refint\LinearExpressions2.dll
+C:\Users\bogdo\Downloads\Sana\Sana01\LinearExpressions2\obj\Debug\net9.0\LinearExpressions2.pdb
+C:\Users\bogdo\Downloads\Sana\Sana01\LinearExpressions2\obj\Debug\net9.0\LinearExpressions2.genruntimeconfig.cache
+C:\Users\bogdo\Downloads\Sana\Sana01\LinearExpressions2\obj\Debug\net9.0\ref\LinearExpressions2.dll
